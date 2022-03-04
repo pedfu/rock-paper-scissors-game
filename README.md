@@ -1,3 +1,5 @@
 # HOW TO SET UP
 
-- Download the files, open index.html in some navegator and done!
+- Download the files
+- Open index.html using a navegator, such as Google Chrome
+- Done!
